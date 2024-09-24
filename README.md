@@ -36,7 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ashwadhama2004/sales-data-analysis.git
+   git clone https://github.com/Ashwadhama2004/big_mart_dataprocessing.git
    ```
 2. Install the necessary dependencies:
    ```bash
@@ -50,4 +50,4 @@ Contributions are welcome! Please open a pull request or file an issue if you ha
 
 ```
 
-"https://github.com/Ashwadhama2004/big_mart_dataprocessing/tree/main"
+You can now publish this file in your GitHub repository.
